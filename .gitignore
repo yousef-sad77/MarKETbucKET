@@ -1,0 +1,8 @@
+/experiment
+/node_modules
+/web/assets/fonts
+/lib
+package-lock.json
+package.json
+/web/assets/SVGs/flag-icons-main
+/web/assets/SVGs/nav-icons
