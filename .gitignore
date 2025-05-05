@@ -1,5 +1,5 @@
 /experiment
-/node_modules
+/web/node_modules
 /web/assets/fonts
 /lib
 package-lock.json
